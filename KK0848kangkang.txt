@@ -1,1 +1,5 @@
-测试添加文件
+添加文件
+ (use "git add <file>..." to update what will be committed)
+ (use "git restore <file>..." to discard changes in working directory)或者git checkout  KK0848kangkang.txt
+
+git diff
